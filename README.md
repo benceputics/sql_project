@@ -11,7 +11,7 @@ Analysis of customer behavior, retention patterns, and lifetime value to optimiz
 
 ## Technical Details
 - **Database**: PostgreSQL
-- **Analysis Tools**: DBeaver, VSCode
+- **Analysis Tools**: DBeaver, Visual Studio Code
 - **Visualization**: Power BI
 
 ## Analysis
@@ -87,3 +87,4 @@ Analysis of customer behavior, retention patterns, and lifetime value to optimiz
 - Create targeted re-engagement campaigns towards the most valuable customers to prevent long-term churn
 - Anticipate churn by tracking personalized risk indicators and intervening proactively to retain at-risk users
 - Focus on the early customer lifecycle by deploying onboarding benefits, engagement perks, and customized offers to increase long-term retention
+
